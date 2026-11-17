@@ -1,0 +1,26 @@
+Noor Fabrics — image credits
+All photographs are real, free-to-use images from Pexels (Pexels License) or Wikimedia Commons (licenses noted).
+Product-mystic-forest.jpg was cropped from the source to show only the fabric (white background, pin, and sheer hem removed).
+
+filename | source page URL | photographer | license
+
+hero-1.jpg | https://www.pexels.com/photo/rolls-of-multi-colored-fabrics-18359551/ | Muhammed Zeya | Pexels License
+hero-2.jpg | https://commons.wikimedia.org/wiki/File:Bandhani,_Tie_dye_dresses_drying_in_Jaipur.jpg | Jon Connell | CC BY 2.0
+product-mystic-forest.jpg | https://commons.wikimedia.org/wiki/File:Bandhani_dyeing_method.jpg | Ramkumar Kalyani | CC BY-SA 4.0 (cropped)
+product-ocean-wave.jpg | https://www.pexels.com/photo/indigo-dye-on-fabric-with-wave-pattern-35197097/ | Cc Liu | Pexels License
+product-sunset-bloom.jpg | https://commons.wikimedia.org/wiki/File:Doubledot_orange.jpg | Dr. Matias Langer | CC BY-SA 3.0
+product-rainbow-spiral.jpg | https://www.pexels.com/photo/colorful-fabric-in-spiral-8321234/ | Katie Rainbow | Pexels License
+product-earth-tones.jpg | https://www.pexels.com/photo/waves-of-beige-linen-cloth-5908241/ | Mike Murray | Pexels License
+product-bright-sunset.jpg | https://www.pexels.com/photo/red-and-yellow-textile-8752891/ | Tamanna Rumee | Pexels License
+product-purple-haze.jpg | https://commons.wikimedia.org/wiki/File:Bandhani_print_open.JPG | Mandayamr | Public domain
+product-midnight-galaxy.jpg | https://www.pexels.com/photo/tie-dyed-piece-of-fabric-6851124/ | Teona Swift | Pexels License
+cat-cotton.jpg | https://www.pexels.com/photo/cotton-bedsheet-12095748/ | La Photography | Pexels License
+cat-silk.jpg | https://www.pexels.com/photo/close-up-photo-of-a-blue-silk-7676880/ | Mikhail Nilov | Pexels License
+cat-linen.jpg | https://www.pexels.com/photo/close-up-of-brown-textured-linen-fabric-34860701/ | Robert Grant | Pexels License
+cat-men.jpg | https://www.pexels.com/photo/back-view-shot-of-a-person-using-tie-dye-scarf-wearing-fedora-hat-while-standing-near-old-brick-building-13307165/ | Faruk Tokluoğlu | Pexels License
+cat-women.jpg | https://www.pexels.com/photo/elegant-woman-in-tie-dye-dress-on-blue-background-32873410/ | Matazu multimedia | Pexels License
+story-dyeing.jpg | https://www.pexels.com/photo/a-person-with-a-bowl-of-dye-6850864/ | Teona Swift | Pexels License
+gallery-1.jpg | https://www.pexels.com/photo/close-up-of-colorful-fabric-8321235/ | Katie Rainbow | Pexels License
+gallery-2.jpg | https://www.pexels.com/photo/yellow-blue-and-pink-tie-dye-textile-8317887/ | Katie Rainbow | Pexels License
+gallery-3.jpg | https://commons.wikimedia.org/wiki/File:Tie_dye_T-shirts.jpg | Steven Falconer | CC BY-SA 2.0
+gallery-4.jpg | https://www.pexels.com/photo/colorful-fabric-display-at-vietnamese-market-36296433/ | Felix Schickel | Pexels License
